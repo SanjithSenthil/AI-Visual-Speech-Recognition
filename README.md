@@ -17,3 +17,7 @@ https://github.com/SanjithSenthil/AI-Visual-Speech-Recognition/assets/109128028/
 - Streamlit
 - NumPy
 - Matplotlib
+
+### Aknowledgements
+- Dataset: https://spandh.dcs.shef.ac.uk//gridcorpus/
+- LipNet: https://arxiv.org/abs/1611.01599
