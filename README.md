@@ -6,7 +6,7 @@
 - The model is transformed into a full stack application, enabling users to select from a predetermined set of videos for real time transcription.
 
 ### Demo Video
-- Click to play the below video for the demo.
+- Click to play the below video for the demo. Note: Please don't forget to unmute the video.
 
 https://github.com/SanjithSenthil/AI-Visual-Speech-Recognition/assets/109128028/613e666d-8b74-49ce-81fa-428d8207c261
 
